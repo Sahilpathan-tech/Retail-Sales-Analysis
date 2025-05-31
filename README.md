@@ -24,3 +24,20 @@ This project focuses on analyzing historical retail sales data and forecasting f
 1. Clone this repo
 2. Open Retail_Sales_Analysis.ipynb in Jupyter Notebook
 3. Run all cells to see the results
+---
+
+## 📌 Dataset Source
+
+This project is based on publicly available on kaggle
+---
+
+## 👨‍💻 Author
+
+*Sahil Khan Pathan*  
+📍 Pune, India  
+🔗 [LinkedIn](https://www.linkedin.com/in/sahil-khan-pathan-69a28428a)  
+📧 Pathansahil.dev@gmail.com
+
+---
+
+⭐ If you find this project helpful, please give it a ⭐ on GitHub!
